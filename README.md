@@ -1,1 +1,2 @@
 # Billing-Software
+# QR generator
