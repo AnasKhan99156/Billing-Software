@@ -12,7 +12,7 @@ So, the attached image is the **GUI Interface of the Software**
 
 # QR Generator
 
-We have taken a sample input and created a Quick response code of the bill and also when we **click** on the **Generate QR button** it automatically capture the inputs and also saves a copy of the code in the system for further issues with the bill number.
+We have taken a sample input and created a Quick response code of the invoice and also when we **click** on the **Generate QR button** it automatically capture the inputs and also saves a copy of the QR code in the system for further issues with the invoice number.
 
 
 ![image](https://github.com/AnasKhan99156/Billing-Software/assets/130431848/d492381e-d98f-48d9-941c-bbe6efbbc677)
