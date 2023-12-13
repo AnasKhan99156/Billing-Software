@@ -1,6 +1,6 @@
 # Billing_Software
 
-This software is basically associated with the **Quick Response Code** of the entire item a person purchases.
+This software is basically associated with the **Quick Response Code** of the entire items a person purchases.
 
 The main agenda for making this project was to reduce the paper usage and send the bill to persons mail id. 
 
