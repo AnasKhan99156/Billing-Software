@@ -1,4 +1,4 @@
-# Billing-Software
+# Billing_Software
 
 This software is basically associated with the **Quick Response Code** of the entire item a person purchases.
 
